@@ -1,0 +1,483 @@
+body {
+  font-family: "Inter", sans-serif;
+  margin: 0px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: black;
+  background-color: #fcfdfe;
+}
+.cl-float {
+  clear: both;
+}
+
+h1 {
+  font-size: 60px;
+  line-height: 75px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+.hero__content {
+  width: 576px;
+  height: 442px;
+  float: left;
+  padding-right: 32px;
+}
+.hero__content p {
+  font-size: 20px;
+  line-height: 33px;
+  font-weight: 400;
+}
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 80px 24px;
+  align-items: center;
+  /* clear: both; */
+}
+p {
+  /* font-size:20px;
+    line-height:33px;
+    font-weight:400; */
+  color: #4a5565;
+  margin-bottom: 32px;
+}
+/* .btn{
+border-radius: 8px;
+border-style: solid;
+font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+     padding: 16px 32px;
+
+} */
+
+/* .btn1{
+border-color:  black;
+    width: 213px;
+    height: 63px;
+    color: #fff;
+    background-color: black;
+    margin-right: 16px;
+    border-radius: 8px;
+border-style: solid;
+font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+     padding: 16px 32px;
+}
+
+.btn2{
+    background-color: #FCFDFD;
+    color: #364153;
+    border-color: #D1D5DC;
+    width: 160px;
+    height: 63px;
+        cursor: pointer;
+        border-radius: 8px;
+border-style: solid;
+font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+     padding: 16px 32px;
+} */
+
+.btn {
+  border-radius: 8px;
+  border: 2px solid transparent;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  padding: 16px 32px;
+  height: 63px;
+  cursor: pointer;
+  width: fit-content;
+}
+
+.btn1 {
+  border-color: black;
+  color: #fff;
+  background-color: black;
+  margin-right: 16px;
+}
+
+.btn2 {
+  background-color: #fcfdfd;
+  color: #364153;
+  border-color: #d1d5dc;
+}
+
+.clear-f {
+  clear: both;
+}
+
+.imgg {
+  width: 100%;
+  height: 100%;
+  float: right;
+  border-radius: 16px;
+  vertical-align: top;
+}
+
+.hero_img {
+  display: inline-block;
+  padding-top: 50px;
+  width: 400px;
+  height: 384px;
+  border-radius: 16px;
+  vertical-align: top;
+}
+
+.title {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.head-Two {
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 700;
+  margin: 24px;
+  width: auto;
+}
+.Title-one {
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  margin: auto;
+  width: 70%;
+  padding-bottom: 20px;
+}
+.why-choose-us {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 100px 0px;
+}
+
+.benifit-cards {
+  width: 26%;
+
+  padding: 20px;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 18px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.bg-blue {
+  background-color: #dbeafe;
+  border: 1px soild #d8e9fe;
+}
+.bg-green {
+  background-color: #d0fae5;
+  border: 1px soild #a4f4cf;
+}
+.bg-purple {
+  background-color: #f3e8ff;
+  border: 1px solid #e9d4ff;
+}
+.inner-cirlce,
+.inner-square {
+  width: 32px;
+  height: 32px;
+  background-color: white;
+  vertical-align: center;
+}
+.inner-square {
+  border-radius: 8px;
+}
+.inner-cirlce {
+  border-radius: 50%;
+  text-align: center;
+  vertical-align: center;
+}
+
+.outer-square {
+  border-radius: 12px;
+  width: fit-content;
+  /* width: 64px;
+    height: 64px; */
+  margin-inline: auto;
+  margin-bottom: 10px;
+  padding: 12px;
+}
+
+.bg-square-blue {
+  background-color: #155dfc;
+}
+
+.bg-square-green {
+  background-color: #009966;
+}
+
+.bg-square-purple {
+  background-color: #9810fa;
+}
+
+.benifit-cards.bg-green {
+  margin: 0 12px;
+}
+
+.image {
+  display: inline-block;
+  vertical-align: top;
+  width: 552px;
+  height: 320px;
+}
+
+.content {
+  vertical-align: top;
+  display: inline-block;
+  margin-left: 20px;
+}
+.content h3 {
+  text-align: left;
+}
+.cards h3 {
+  margin: 0px;
+  vertical-align: top;
+}
+
+.all {
+  display: block;
+  border-left: 4px solid black;
+  padding-left: 24px;
+  margin-bottom: 0px;
+  /* margin: 5px 15px; */
+}
+
+.content.hh3 {
+  text-align: left;
+}
+
+.content h3 {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 36px;
+}
+.all p {
+  text-align: left;
+  color: #4a5565;
+}
+
+.all h4 {
+  margin-bottom: 2px;
+  text-align: left;
+  /* padding-left: 5px; */
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+}
+.why-us-pic {
+  border-radius: 12px;
+  margin-top: 50px;
+}
+.more-benefits {
+  height: auto;
+  width: 80%;
+  margin: auto;
+}
+
+/* .title-test{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+} */
+
+.reviews {
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+}
+
+.brdr {
+  margin: 0px 10px;
+  border: 1px solid;
+}
+
+.david {
+  background-color: #eff6ff;
+  border-color: rgb(218, 230, 247);
+}
+.Mike {
+  background-color: #ecfdf5;
+
+  border-color: #ccf8e4;
+}
+
+.James {
+  background-color: #faf5ff;
+  border-color: #d9bdf5;
+}
+
+.avatar {
+  float: left;
+  width: 64px;
+  height: 64px;
+  margin: 16px;
+  border-radius: 50%;
+  vertical-align: top;
+}
+
+.inner {
+  width: 300px;
+  height: 64px;
+}
+
+.statistics {
+  width: 90%;
+  text-align: center;
+  /* padding: 10px 20px; */
+  margin: 50px auto;
+  background-color: #f1f5f9;
+  border-radius: 14px;
+  border: #dbebfa solid 1px;
+}
+
+.style1 {
+  width: 240px;
+  height: 24px;
+  display: inline-block;
+  text-align: center;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+}
+
+.membership-form.container.titlep {
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  color: #4a5565;
+}
+
+.footer {
+  background-color: #0f172a;
+  color: #94a3b8;
+  padding: 60px 80px;
+}
+
+.rright {
+  width: 50%;
+}
+
+.copy-right {
+  border-top: 1px #364153 solid;
+  vertical-align: top;
+  margin: auto;
+  color: #6a7282;
+}
+
+.contentt {
+  background-color: #0f172a;
+}
+
+.contact,
+.Quick-links,
+.fitcore {
+  display: inline-block;
+  margin-right: 20px;
+  width: 24%;
+  vertical-align: top;
+  padding: 50px;
+}
+
+.Quick-links a {
+  display: block;
+}
+
+.address p {
+  width: fit-content;
+}
+.fitcore h2,
+.Quick-links h4,
+.contact h4 {
+  color: white;
+}
+
+.right {
+  float: left;
+}
+
+.left {
+  vertical-align: top;
+  float: right;
+  padding: 20px;
+}
+
+.edt {
+  margin: 5px;
+}
+
+.membership-form {
+  background-color: #ffffff;
+}
+
+.first-name input,
+.last-name input,
+.email input,
+.fitness-goal input,
+.membership label,
+.phone-num input {
+  display: block;
+}
+
+.form-group {
+  background-color: #F9FAFB;
+  border-radius: 16px;
+  padding: 48px;
+  width: 100%;
+ 
+
+}
+
+
+label {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  color: #364153;
+  border-radius: 10px;
+  /* padding: 16px 24px; */
+ 
+  background-color: #F9FAFB;
+}
+input,
+select,
+button {
+  border-radius: 10px;
+  padding: 16px 24px;
+  width: 80%;
+  height: 20%;
+  background-color: #FFFFFF;
+  border: 1px solid #CBD5E1;
+  color: #0F172A;
+}
+
+button {
+  background-color: black;
+  color: white;
+  margin: 15px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+  border: none;
+}
+
+
+.last-name,.first-name{
+   display: inline-block;
+    vertical-align: top;
+    width: 45%;
+    
+    margin: 4px;
+}
+
+
