@@ -2,6 +2,7 @@
 
 
 # Used technologies
- css decoration tags sidth height min max background color, 
+ HTML:span div 
+ Css decoration tags: width,max heigy, max height, background color, 
  text color border color/style/width/radius 
- margin padding display{ inline-block block inline} vertical align span div float
+ margin, padding, display{ inline-block block inline} vertical align float
